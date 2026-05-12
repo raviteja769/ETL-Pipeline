@@ -4,7 +4,6 @@
 
 ### A stateful, idempotent ETL pipeline with CDC-style filtering, composite-key deduplication, survivorship logic, and audit traceability — running in production on 10-minute micro-batch cycles.
 
-\---
 
 [Architecture](#-architecture-overview) •
 [Pipeline Deep Dive](#-pipeline-deep-dive) •
@@ -16,7 +15,7 @@
 
 </div>
 
-\---
+
 
 ## 📑 Table of Contents
 
