@@ -2,12 +2,6 @@
 
 # 🔄 Near Real-Time Incremental ETL \& Deduplication Pipeline
 
-!\[Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
-!\[Platform](https://img.shields.io/badge/platform-Power%20Automate-blue?style=for-the-badge\&logo=powerautomate)
-!\[Architecture](https://img.shields.io/badge/architecture-Medallion-orange?style=for-the-badge)
-!\[License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-!\[Status](https://img.shields.io/badge/status-Production-success?style=for-the-badge)
-
 ### A stateful, idempotent ETL pipeline with CDC-style filtering, composite-key deduplication, survivorship logic, and audit traceability — running in production on 10-minute micro-batch cycles.
 
 \---
@@ -593,9 +587,9 @@ git clone https://github.com/cheepururaviteja/etl-dedup-pipeline.git
 
 *Data Engineer*
 
-[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
-[!\[GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)](https://github.com/cheepururaviteja)
-[!\[Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:your.email@example.com)
+[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ravitejacheepuru/)
+[!\[GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge\&logo=github)](https://github.com/raviteja769)
+[!\[Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:raviteja769@gmail.com)
 
 > \*"The orchestration layer is Power Automate, but the engineering patterns — CDC, idempotency, upserts, state stores, survivorship — are tool-agnostic and production-proven."\*
 
