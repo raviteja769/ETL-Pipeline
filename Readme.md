@@ -93,7 +93,7 @@
 
 ### The Challenge
 
-Operational TRT (Transaction Routing \& Tracking) events are continuously ingested into a staging table. Without proper deduplication:
+Operational TRT (Technical Response Team) events are continuously ingested into a staging table. Without proper deduplication:
 
 |Problem|Impact|
 |-|-|
